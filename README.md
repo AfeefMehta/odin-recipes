@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple website that has a list linking to pages describing some of my favorite recipes. It's here to test my understanding of basic HTML concepts such as links, images, headings, paragraphs, lists, as well as GIT fundamentals.
